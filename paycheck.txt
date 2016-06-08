@@ -1,0 +1,16 @@
+-----------------------------
+EMPLOYEE: Hawking, Stephen
+
+PAY RATE:           $   28.67
+HOURS:                  87.00
+GROSS PAY:          $ 2594.64
+MED INS DEDUCT:     $   64.97
+401K DEDUCT:        $  155.68
+FED TAX GROSS PAY:  $ 2373.99
+TAX - FEDERAL:      $  302.68
+TAX - OASDI:        $  147.19
+TAX - MEDICARE:     $   34.42
+TAX - STATE:        $  183.75
+TAX - TOTAL:        $  668.04
+NET PAY:            $ 1705.95
+-----------------------------
